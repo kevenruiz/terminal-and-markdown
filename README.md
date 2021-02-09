@@ -12,17 +12,18 @@ line two
 2. two
 3. three
 
+## more stuff
+
 you *emphasize* or make things **strong**
 
 In order to add files to a commit, use `git add -A`
 
-```html
-<div>
 
-    // this is someo Java script sun
 
-    const sum = 1 +2;
     
+
+## hello
+
 Name|Type|Cool Factor
 ---|---|---
 spot | puppy | 10
