@@ -21,6 +21,11 @@ In order to add files to a commit, use `git add -A`
 
     // this is someo Java script sun
 
-    const sum 
-
-    The
+    const sum = 1 +2;
+    
+Name|Type|Cool Factor
+---|---|---
+spot | puppy | 10
+jumpy | frog | 7
+flaps | birb | 4
+mew-mew | kitty | 6
