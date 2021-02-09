@@ -6,11 +6,15 @@ line two
 *bullet two
 *bullet three
 
+**I am Mr. Bold**
+_I am Mr. Italic_
+
+
 ## The Steps
 
 1. one
-2. two
-3. three
+1. two
+1. three
 
 ## more stuff
 
@@ -22,7 +26,7 @@ In order to add files to a commit, use `git add -A`
 
     
 
-## hello
+### hello
 
 Name|Type|Cool Factor
 ---|---|---
@@ -30,3 +34,7 @@ spot | puppy | 10
 jumpy | frog | 7
 flaps | birb | 4
 mew-mew | kitty | 6
+
+//this is some JavaScript code
+const sum = 1 + 2;
+
